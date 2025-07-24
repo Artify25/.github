@@ -4,7 +4,7 @@ Build Flutter apps faster by sharing code across multiple applications.
 
 ## 🎯 Quick Setup
 
-Get the clone tools and run the script for your workflow:
+Get the clone tools and run the script for your workflow: [/clone-tools](/clone-tools/)
 
 ```
 git clone git@github.com:Chic-Base/clone-tools.git
